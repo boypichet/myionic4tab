@@ -1,6 +1,8 @@
 {
   "name": "myionic4tab",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "b7eaf75e"
 }
